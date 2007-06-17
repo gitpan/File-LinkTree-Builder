@@ -15,16 +15,16 @@ File::LinkTree::Builder - builds a tree of symlinks based on file metadata
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
-  $Id: /my/cs/projects/File-LinkTree-Builder/trunk/lib/File/LinkTree/Builder.pm 31845 2007-06-14T02:28:46.456749Z rjbs  $
+  $Id: /my/cs/projects/File-LinkTree-Builder/trunk/lib/File/LinkTree/Builder.pm 31853 2007-06-17T11:26:01.863818Z rjbs  $
 
 B<ACHTUNG!>: This module is young.  The interface may yet change a little,
 probably mostly around the iterator.  Rely on it at your own risk.
 
 =cut
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 =head1 SYNOPSIS
 
