@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package File::LinkTree::Builder;
 {
-  $File::LinkTree::Builder::VERSION = '0.005';
+  $File::LinkTree::Builder::VERSION = '0.006';
 }
 # ABSTRACT: builds a tree of symlinks based on file metadata
 
@@ -147,13 +147,15 @@ __END__
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 File::LinkTree::Builder - builds a tree of symlinks based on file metadata
 
 =head1 VERSION
 
-version 0.005
+version 0.006
 
 =head1 SYNOPSIS
 
